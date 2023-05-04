@@ -30,4 +30,4 @@ Here are the key points that every developer must master.
 22. Picking Technologies (Tools, Libraries, etc.)
 23. Self-Development
 24. Don’t be a hero
-25. Don’t Ask Questions… Ask For Help
+25. Don’t Ask Questions… Ask For Help.
